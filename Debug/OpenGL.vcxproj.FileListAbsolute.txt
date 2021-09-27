@@ -1,0 +1,4 @@
+C:\Users\amino\Desktop\All Files\MIV\semestre3\SI\TP\Full_TUTO\OpenGL\Debug\OpenGL.exe
+C:\Users\amino\Desktop\All Files\MIV\semestre3\SI\TP\Full_TUTO\OpenGL\Debug\OpenGL.pdb
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\Debug\OpenGL.exe
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\Debug\OpenGL.pdb

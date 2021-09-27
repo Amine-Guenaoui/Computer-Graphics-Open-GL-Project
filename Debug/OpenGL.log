@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\src\main.cpp(159,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\src\main.cpp(160,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\src\main.cpp(165,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\src\main.cpp(263,46): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\src\VertexBufferLayout.h(20): warning C4715: 'VertexBufferElement::GetSizeOfType': not all control paths return a value
+  OpenGL.vcxproj -> C:\Users\amino\Desktop\All Files\MIV\semestre3\Synthese Image\TP\Full_TUTO\OpenGL\Debug\OpenGL.exe
